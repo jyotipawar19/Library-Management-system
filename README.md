@@ -1,2 +1,8 @@
-# Library-Management-system
-It is a small project for library management using SQL
+\# Library Management System
+
+This project uses Tkinter + MySQL.
+
+Run library\_gui.py to start GUI.
+
+
+
